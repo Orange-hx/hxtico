@@ -1,0 +1,12 @@
+{
+    "name"         : "hxtico",
+    "url"          : "https://github.com/Orange-hx/hxtico",
+    "license"      : "Public",
+    "tags"         : [ "lua", "game", "tinycoffee", "love2d", "externs" ],
+    "description"  : "Haxe externs for Tinycoffee!",
+    "version"      : "1.0.0",
+    "releasenote"  : "Beginning of Orange.hx stuff!",
+    "classPath"    : "src",
+    "contributors" : [ "Rabios" ],
+    "dependencies" : {}
+}
